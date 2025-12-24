@@ -1,0 +1,130 @@
+900
+pista3.jpg
+1
+69
+<caminho>
+43	-1
+56	11
+106	40
+139	80
+159	133
+149	180
+116	212
+80	244
+67	257
+67	271
+72	284
+88	288
+129	291
+152	287
+174	271
+199	229
+284	67
+303	57
+319	67
+327	83
+348	171
+358	188
+372	199
+390	201
+436	176
+452	174
+460	186
+446	229
+404	301
+379	318
+356	315
+294	227
+278	224
+266	231
+263	248
+260	326
+262	335
+275	341
+356	389
+370	408
+373	427
+360	437
+323	437
+280	434
+246	405
+211	368
+169	353
+139	365
+118	386
+104	412
+102	442
+106	463
+128	496
+</caminho>
+<bloons>
+0	0	barro
+6	0	barro
+10	0	rosa
+15	0	rosa
+16	0	rosa
+18	0	rosa
+19	0	rosa
+20	0	preto
+25	0	preto
+29	0	preto
+34	0	metal
+39	0	metal
+41	0	rosa
+48	0	rosa
+49	0	rosa
+49	0	amarelo
+50	0	rosa
+51	0	rosa
+51	0	amarelo
+52	0	rosa
+53	0	rosa
+53	0	amarelo
+54	0	rosa
+55	0	rosa
+55	0	amarelo
+61	0	verde
+62	0	verde
+63	0	verde
+64	0	verde
+65	0	verde
+66	0	verde
+67	0	verde
+68	0	verde
+69	0	verde
+70	0	verde
+74	0	branco
+101	0	branco
+121	0	branco
+142	0	branco
+165	0	branco
+185	0	branco
+204	0	branco
+215	0	rosa
+216	0	rosa
+217	0	rosa
+218	0	rosa
+219	0	rosa
+220	0	rosa
+221	0	rosa
+222	0	rosa
+222	0	zep_metal
+223	0	rosa
+224	0	rosa
+225	0	rosa
+226	0	rosa
+227	0	preto
+233	0	zep_metal
+244	0	zep_metal
+257	0	zep_metal
+264	0	branco
+265	0	branco
+266	0	branco
+267	0	branco
+292	0	branco
+293	0	branco
+294	0	branco
+295	0	branco
+296	0	branco
+297	0	branco
+</bloons>

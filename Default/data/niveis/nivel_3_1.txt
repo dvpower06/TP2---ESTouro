@@ -1,0 +1,97 @@
+900
+pista3.jpg
+1
+36
+<caminho>
+43	-1
+56	11
+106	40
+139	80
+159	133
+149	180
+116	212
+80	244
+67	257
+67	271
+72	284
+88	288
+129	291
+152	287
+174	271
+199	229
+284	67
+303	57
+319	67
+327	83
+348	171
+358	188
+372	199
+390	201
+436	176
+452	174
+460	186
+446	229
+404	301
+379	318
+356	315
+294	227
+278	224
+266	231
+263	248
+260	326
+262	335
+275	341
+356	389
+370	408
+373	427
+360	437
+323	437
+280	434
+246	405
+211	368
+169	353
+139	365
+118	386
+104	412
+102	442
+106	463
+128	496
+</caminho>
+<bloons>
+0	0	vermelho
+4	0	vermelho
+9	0	vermelho
+15	0	vermelho
+19	0	vermelho
+23	0	azul
+27	0	vermelho
+31	0	azul
+33	0	azul
+42	0	azul
+44	0	azul
+46	0	azul
+48	0	azul
+50	0	azul
+52	0	azul
+54	0	azul
+55	0	vermelho
+56	0	vermelho
+57	0	vermelho
+58	0	vermelho
+59	0	verde
+60	0	vermelho
+61	0	vermelho
+62	0	vermelho
+63	0	verde
+66	0	vermelho
+69	0	vermelho
+72	0	vermelho
+73	0	vermelho
+75	0	vermelho
+77	0	vermelho
+79	0	vermelho
+81	0	verde
+83	0	vermelho
+90	0	amarelo
+100	0	rosa
+</bloons>

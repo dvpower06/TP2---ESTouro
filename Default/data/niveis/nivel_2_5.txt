@@ -1,0 +1,88 @@
+900
+pista2.jpg
+3
+25
+<caminho>
+74	-1
+29	54
+22	107
+28	158
+53	174
+86	155
+125	95
+153	76
+200	86
+256	133
+276	173
+289	420
+295	436
+320	426
+382	385
+407	382
+421	405
+421	479
+</caminho>
+<caminho>
+-3	225
+40	252
+128	208
+165	192
+204	199
+228	232
+213	270
+166	326
+165	351
+188	357
+275	343
+297	411
+307	421
+385	377
+409	380
+415	404
+414	479
+</caminho>
+<caminho>
+298	-1
+277	66
+303	109
+331	125
+374	112
+402	113
+416	134
+418	195
+394	241
+353	289
+289	333
+290	412
+309	431
+397	386
+422	393
+424	478
+</caminho>
+<bloons>
+16	0	metal
+20	1	metal
+25	2	metal
+73	1	preto
+90	0	preto
+90	2	preto
+112	1	zep_azul
+134	0	rosa
+134	2	rosa
+157	1	rosa
+209	0	zep_azul
+245	2	zep_azul
+280	0	zep_azul
+295	0	vermelho
+296	0	vermelho
+297	0	vermelho
+298	0	vermelho
+304	1	vermelho
+305	1	vermelho
+306	1	vermelho
+307	1	vermelho
+318	2	vermelho
+319	2	vermelho
+320	2	vermelho
+321	2	vermelho
+</bloons>

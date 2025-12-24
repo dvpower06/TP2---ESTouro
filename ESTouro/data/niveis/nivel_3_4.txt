@@ -1,0 +1,169 @@
+900
+pista3.jpg
+1
+108
+<caminho>
+43	-1
+56	11
+106	40
+139	80
+159	133
+149	180
+116	212
+80	244
+67	257
+67	271
+72	284
+88	288
+129	291
+152	287
+174	271
+199	229
+284	67
+303	57
+319	67
+327	83
+348	171
+358	188
+372	199
+390	201
+436	176
+452	174
+460	186
+446	229
+404	301
+379	318
+356	315
+294	227
+278	224
+266	231
+263	248
+260	326
+262	335
+275	341
+356	389
+370	408
+373	427
+360	437
+323	437
+280	434
+246	405
+211	368
+169	353
+139	365
+118	386
+104	412
+102	442
+106	463
+128	496
+</caminho>
+<bloons>
+0	0	vermelho
+2	0	vermelho
+4	0	vermelho
+6	0	vermelho
+8	0	vermelho
+10	0	vermelho
+12	0	vermelho
+14	0	vermelho
+16	0	vermelho
+18	0	vermelho
+20	0	vermelho
+22	0	vermelho
+24	0	vermelho
+26	0	vermelho
+28	0	vermelho
+30	0	vermelho
+32	0	vermelho
+34	0	vermelho
+36	0	vermelho
+37	0	vermelho
+38	0	vermelho
+39	0	vermelho
+40	0	zep_preto
+49	0	azul
+57	0	rosa
+61	0	barro
+64	0	amarelo
+67	0	verde
+70	0	verde
+72	0	rosa
+75	0	vermelho
+76	0	vermelho
+78	0	vermelho
+83	0	amarelo
+86	0	azul
+87	0	vermelho
+90	0	amarelo
+92	0	rosa
+95	0	zep_preto
+99	0	vermelho
+100	0	vermelho
+104	0	azul
+107	0	rosa
+109	0	verde
+111	0	vermelho
+113	0	azul
+116	0	vermelho
+120	0	amarelo
+122	0	rosa
+124	0	vermelho
+128	0	vermelho
+131	0	rosa
+134	0	vermelho
+136	0	vermelho
+137	0	vermelho
+140	0	amarelo
+145	0	vermelho
+147	0	zep_azul
+149	0	verde
+151	0	vermelho
+153	0	azul
+156	0	vermelho
+160	0	amarelo
+164	0	vermelho
+167	0	vermelho
+168	0	vermelho
+170	0	amarelo
+174	0	vermelho
+178	0	vermelho
+180	0	amarelo
+182	0	zep_preto
+186	0	vermelho
+190	0	vermelho
+192	0	amarelo
+195	0	vermelho
+197	0	verde
+200	0	amarelo
+204	0	amarelo
+209	0	amarelo
+213	0	amarelo
+218	0	zep_amarelo
+222	0	verde
+226	0	zep_azul
+229	0	verde
+232	0	zep_amarelo
+234	0	vermelho
+238	0	vermelho
+241	0	rosa
+245	0	verde
+248	0	verde
+249	0	zep_azul
+251	0	zep_preto
+254	0	verde
+258	0	verde
+260	0	zep_azul
+263	0	vermelho
+267	0	vermelho
+270	0	zep_azul
+275	0	vermelho
+282	0	vermelho
+287	0	zep_preto
+291	0	verde
+292	0	verde
+293	0	verde
+294	0	verde
+295	0	verde
+296	0	verde
+297	0	verde
+</bloons>

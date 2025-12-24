@@ -1,0 +1,161 @@
+1000
+pista2.jpg
+3
+98
+<caminho>
+74	-1
+29	54
+22	107
+28	158
+53	174
+86	155
+125	95
+153	76
+200	86
+256	133
+276	173
+289	420
+295	436
+320	426
+382	385
+407	382
+421	405
+421	479
+</caminho>
+<caminho>
+-3	225
+40	252
+128	208
+165	192
+204	199
+228	232
+213	270
+166	326
+165	351
+188	357
+275	343
+297	411
+307	421
+385	377
+409	380
+415	404
+414	479
+</caminho>
+<caminho>
+298	-1
+277	66
+303	109
+331	125
+374	112
+402	113
+416	134
+418	195
+394	241
+353	289
+289	333
+290	412
+309	431
+397	386
+422	393
+424	478
+</caminho>
+<bloons>
+0	0	zep_metal
+90	0	vermelho
+91	0	vermelho
+92	0	vermelho
+93	0	vermelho
+94	0	vermelho
+95	0	vermelho
+96	0	vermelho
+97	0	vermelho
+98	0	vermelho
+99	0	vermelho
+100	0	vermelho
+101	0	vermelho
+102	0	vermelho
+103	0	vermelho
+104	0	vermelho
+105	0	vermelho
+106	0	vermelho
+107	0	vermelho
+108	0	vermelho
+109	0	vermelho
+110	0	vermelho
+111	0	vermelho
+112	0	vermelho
+113	0	vermelho
+114	0	vermelho
+115	0	vermelho
+116	0	vermelho
+117	0	vermelho
+118	0	vermelho
+118	1	azul
+119	0	vermelho
+119	1	azul
+120	0	vermelho
+120	1	azul
+121	0	vermelho
+121	1	azul
+122	0	vermelho
+122	1	azul
+123	0	vermelho
+123	1	azul
+124	1	azul
+125	1	azul
+126	1	azul
+127	1	azul
+128	1	azul
+129	1	azul
+130	1	azul
+131	1	azul
+132	1	azul
+133	1	azul
+134	1	azul
+135	1	azul
+136	1	azul
+137	1	azul
+138	1	azul
+139	1	azul
+140	1	azul
+141	1	azul
+142	1	azul
+143	2	verde
+144	2	verde
+145	2	verde
+146	2	verde
+147	2	verde
+148	2	verde
+149	2	verde
+150	2	verde
+151	2	verde
+152	2	verde
+153	2	verde
+154	2	verde
+155	2	verde
+156	2	verde
+157	2	verde
+158	2	verde
+159	2	verde
+160	2	verde
+161	2	verde
+162	2	verde
+163	2	verde
+164	2	verde
+165	2	verde
+166	2	verde
+167	2	verde
+168	2	verde
+169	2	verde
+170	2	verde
+171	2	verde
+172	2	verde
+173	2	verde
+174	2	verde
+175	2	verde
+176	2	verde
+177	2	verde
+178	2	verde
+181	1	zep_metal
+207	2	zep_metal
+</bloons>

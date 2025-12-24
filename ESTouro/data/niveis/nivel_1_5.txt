@@ -1,0 +1,202 @@
+300
+pista1.jpg
+1
+10
+<caminho>
+1	145
+76	158
+111	147
+125	127
+114	103
+78	78
+88	32
+98	21
+120	17
+132	21
+171	60
+207	120
+212	160
+201	190
+184	203
+129	213
+105	212
+88	220
+84	237
+95	255
+115	268
+207	277
+303	271
+358	261
+392	216
+394	188
+377	177
+358	181
+310	223
+283	238
+252	231
+236	213
+256	161
+257	106
+229	42
+251	27
+296	22
+357	27
+440	51
+449	71
+442	90
+383	71
+332	64
+307	68
+298	84
+305	114
+325	137
+371	139
+409	129
+436	177
+445	226
+441	265
+421	311
+284	323
+169	321
+101	312
+58	296
+42	319
+38	343
+40	379
+49	420
+64	435
+85	431
+95	415
+83	389
+94	376
+144	356
+157	364
+169	396
+161	422
+170	436
+204	439
+226	426
+233	404
+236	377
+245	367
+261	371
+273	393
+273	424
+282	435
+326	422
+338	379
+353	367
+375	368
+379	370
+389	382
+396	407
+397	441
+391	476
+</caminho>
+<bloons>
+0	0	verde
+5	0	verde
+10	0	verde
+15	0	verde
+20	0	azul
+25	0	azul
+30	0	azul
+35	0	azul
+40	0	azul
+45	0	azul
+50	0	verde
+55	0	verde
+60	0	verde
+65	0	verde
+70	0	verde
+75	0	verde
+81	0	vermelho
+82	0	vermelho
+83	0	vermelho
+84	0	vermelho
+85	0	vermelho
+86	0	vermelho
+87	0	vermelho
+88	0	vermelho
+89	0	vermelho
+90	0	vermelho
+91	0	vermelho
+92	0	vermelho
+100	0	azul
+105	0	azul
+110	0	azul
+115	0	azul
+120	0	azul
+125	0	azul
+130	0	verde
+140	0	azul
+150	0	azul
+160	0	azul
+170	0	azul
+180	0	verde
+200	0	verde
+210	0	verde
+220	0	verde
+230	0	vermelho
+231	0	vermelho
+232	0	vermelho
+233	0	vermelho
+234	0	vermelho
+235	0	vermelho
+236	0	vermelho
+237	0	vermelho
+238	0	vermelho
+239	0	vermelho
+240	0	azul
+241	0	azul
+242	0	azul
+243	0	azul
+244	0	verde
+245	0	azul
+246	0	azul
+247	0	azul
+248	0	verde
+249	0	azul
+250	0	verde
+251	0	vermelho
+252	0	vermelho
+253	0	vermelho
+254	0	vermelho
+255	0	verde
+256	0	azul
+257	0	azul
+258	0	azul
+259	0	azul
+260	0	verde
+261	0	azul
+262	0	azul
+263	0	azul
+264	0	azul
+265	0	verde
+266	0	azul
+267	0	verde
+268	0	azul
+269	0	verde
+270	0	azul
+280	0	verde
+290	0	azul
+291	0	azul
+292	0	azul
+293	0	azul
+294	0	azul
+295	0	azul
+296	0	azul
+297	0	azul
+298	0	azul
+299	0	azul
+300	0	verde
+301	0	azul
+302	0	azul
+310	0	azul
+320	0	azul
+330	0	azul
+331	0	verde
+340	0	azul
+350	0	azul
+351	0	azul
+</bloons>

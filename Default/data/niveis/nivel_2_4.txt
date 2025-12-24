@@ -1,0 +1,195 @@
+700
+pista2.jpg
+3
+132
+<caminho>
+74	-1
+29	54
+22	107
+28	158
+53	174
+86	155
+125	95
+153	76
+200	86
+256	133
+276	173
+289	420
+295	436
+320	426
+382	385
+407	382
+421	405
+421	479
+</caminho>
+<caminho>
+-3	225
+40	252
+128	208
+165	192
+204	199
+228	232
+213	270
+166	326
+165	351
+188	357
+275	343
+297	411
+307	421
+385	377
+409	380
+415	404
+414	479
+</caminho>
+<caminho>
+298	-1
+277	66
+303	109
+331	125
+374	112
+402	113
+416	134
+418	195
+394	241
+353	289
+289	333
+290	412
+309	431
+397	386
+422	393
+424	478
+</caminho>
+<bloons>
+16	0	metal
+100	1	preto
+171	2	barro
+243	0	rosa
+243	1	rosa
+243	2	rosa
+291	0	vermelho
+291	1	vermelho
+291	2	vermelho
+292	0	vermelho
+292	1	vermelho
+292	2	vermelho
+293	0	vermelho
+293	1	vermelho
+293	2	vermelho
+294	0	vermelho
+294	1	vermelho
+294	2	vermelho
+295	0	vermelho
+295	1	vermelho
+295	2	vermelho
+295	0	azul
+296	0	vermelho
+296	1	vermelho
+296	2	vermelho
+296	0	azul
+297	0	vermelho
+297	1	vermelho
+297	2	vermelho
+297	0	azul
+298	0	vermelho
+298	1	vermelho
+298	2	vermelho
+298	0	azul
+299	0	vermelho
+299	1	vermelho
+299	2	vermelho
+300	0	vermelho
+300	1	vermelho
+300	2	vermelho
+301	0	vermelho
+301	1	vermelho
+301	2	vermelho
+302	0	vermelho
+302	1	vermelho
+302	2	vermelho
+303	0	vermelho
+303	1	vermelho
+303	2	vermelho
+304	0	vermelho
+304	1	vermelho
+304	2	vermelho
+304	1	azul
+305	0	vermelho
+305	1	vermelho
+305	2	vermelho
+305	1	azul
+306	0	vermelho
+306	1	vermelho
+306	2	vermelho
+306	1	azul
+307	0	vermelho
+307	1	vermelho
+307	2	vermelho
+307	1	azul
+308	0	vermelho
+308	1	vermelho
+308	2	vermelho
+309	0	vermelho
+309	1	vermelho
+309	2	vermelho
+310	0	vermelho
+310	1	vermelho
+310	2	vermelho
+311	0	vermelho
+311	1	vermelho
+311	2	vermelho
+312	0	vermelho
+312	1	vermelho
+312	2	vermelho
+313	0	vermelho
+313	1	vermelho
+313	2	vermelho
+314	0	vermelho
+314	1	vermelho
+314	2	vermelho
+315	0	vermelho
+315	1	vermelho
+315	2	vermelho
+316	0	vermelho
+316	1	vermelho
+316	2	vermelho
+317	0	vermelho
+317	1	vermelho
+317	2	vermelho
+318	0	vermelho
+318	1	vermelho
+318	2	vermelho
+318	2	azul
+319	0	vermelho
+319	1	vermelho
+319	2	vermelho
+319	2	azul
+320	0	vermelho
+320	1	vermelho
+320	2	vermelho
+320	2	azul
+321	0	vermelho
+321	1	vermelho
+321	2	vermelho
+321	2	azul
+322	0	vermelho
+322	1	vermelho
+322	2	vermelho
+323	0	vermelho
+323	1	vermelho
+323	2	vermelho
+362	0	amarelo
+362	1	amarelo
+362	2	amarelo
+363	0	amarelo
+363	1	amarelo
+363	2	amarelo
+364	0	amarelo
+364	1	amarelo
+364	2	amarelo
+371	0	amarelo
+371	1	amarelo
+371	2	amarelo
+380	0	amarelo
+388	1	amarelo
+399	2	amarelo
+</bloons>

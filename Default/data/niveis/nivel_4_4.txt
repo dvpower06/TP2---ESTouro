@@ -1,0 +1,538 @@
+0
+pista4.jpg
+5
+465
+<caminho>
+0	52
+175	53
+187	65
+187	214
+201	231
+267	230
+274	248
+274	388
+292	410
+409	411
+430	392
+427	0
+</caminho>
+<caminho>
+0	185
+113	185
+129	200
+130	288
+149	307
+256	305
+275	323
+274	400
+299	416
+409	412
+433	392
+431	0
+</caminho>
+<caminho>
+0	327
+74	328
+73	395
+91	411
+410	412
+424	389
+421	0
+</caminho>
+<caminho>
+271	-3
+271	104
+283	120
+337	119
+350	143
+350	287
+333	308
+275	305
+273	375
+281	419
+432	404
+439	378
+435	2
+</caminho>
+<caminho>
+272	484
+285	454
+264	418
+299	397
+349	423
+390	400
+424	420
+440	363
+413	344
+436	260
+413	156
+440	74
+415	0
+</caminho>
+<bloons>
+0	0	metal
+0	1	metal
+0	2	metal
+0	3	metal
+0	4	metal
+7	0	metal
+7	1	metal
+7	2	metal
+7	3	metal
+7	4	metal
+20	0	zep_preto
+20	1	zep_preto
+20	2	zep_preto
+20	3	zep_preto
+20	4	zep_preto
+40	0	zep_metal
+40	1	zep_metal
+40	3	zep_metal
+40	2	zep_metal
+60	0	zep_rosa
+60	1	zep_rosa
+60	2	zep_rosa
+60	3	zep_rosa
+64	0	zep_rosa
+64	1	zep_rosa
+64	2	zep_rosa
+64	3	zep_rosa
+64	4	zep_rosa
+68	0	zep_rosa
+68	1	zep_rosa
+68	2	zep_rosa
+68	3	zep_rosa
+74	0	zep_rosa
+74	1	zep_rosa
+74	2	zep_rosa
+74	3	zep_rosa
+100	0	branco
+100	2	branco
+100	4	branco
+100	1	preto
+100	3	preto
+110	0	branco
+110	2	branco
+110	1	preto
+110	3	preto
+121	0	branco
+121	2	branco
+121	1	preto
+121	3	preto
+130	3	preto
+131	0	branco
+131	2	branco
+131	4	branco
+132	1	preto
+141	0	branco
+142	2	branco
+142	1	preto
+142	3	preto
+147	1	preto
+147	3	preto
+147	0	branco
+147	2	branco
+150	4	branco
+151	1	preto
+151	3	preto
+151	0	branco
+151	2	branco
+190	0	zep_metal
+190	1	zep_metal
+190	2	zep_metal
+190	3	zep_metal
+190	4	zep_metal
+195	0	zep_metal
+195	1	zep_metal
+195	2	zep_metal
+195	3	zep_metal
+199	4	barro
+202	0	zep_metal
+202	1	zep_metal
+202	2	zep_metal
+202	3	zep_metal
+205	0	barro
+205	1	barro
+205	2	barro
+205	3	barro
+206	0	barro
+206	1	barro
+206	2	barro
+206	3	barro
+210	0	zep_metal
+210	1	zep_metal
+210	2	zep_metal
+210	3	zep_metal
+210	4	zep_metal
+217	0	zep_metal
+217	1	zep_metal
+217	2	zep_metal
+217	3	zep_metal
+224	0	zep_metal
+224	1	zep_metal
+224	2	zep_metal
+224	3	zep_metal
+224	4	zep_metal
+228	0	barro
+228	1	barro
+228	2	barro
+228	3	barro
+229	0	barro
+229	1	barro
+229	2	barro
+229	3	barro
+230	0	barro
+230	1	barro
+230	2	barro
+230	3	barro
+232	0	zep_metal
+233	1	zep_metal
+233	2	zep_metal
+233	3	zep_metal
+239	1	zep_metal
+240	0	zep_metal
+240	2	zep_metal
+240	3	zep_metal
+240	4	zep_metal
+250	0	branco
+250	1	branco
+250	2	branco
+250	3	branco
+250	4	branco
+251	0	branco
+251	1	branco
+251	2	branco
+251	3	branco
+252	0	branco
+252	1	branco
+252	2	branco
+252	3	branco
+252	4	branco
+253	0	branco
+253	1	branco
+253	2	branco
+253	3	branco
+254	0	branco
+254	1	branco
+254	2	branco
+254	3	branco
+254	4	branco
+255	0	branco
+255	1	branco
+255	2	branco
+255	3	branco
+256	0	branco
+256	1	branco
+256	2	branco
+256	3	branco
+256	4	branco
+330	0	barro
+330	1	barro
+330	2	barro
+330	3	barro
+330	4	barro
+331	0	barro
+331	1	barro
+331	2	barro
+331	3	barro
+332	0	barro
+332	1	barro
+332	2	barro
+332	3	barro
+333	0	barro
+333	1	barro
+333	2	barro
+333	3	barro
+333	4	barro
+334	0	barro
+334	1	barro
+334	2	barro
+334	3	barro
+335	0	barro
+335	1	barro
+335	2	barro
+335	3	barro
+336	0	barro
+336	1	barro
+336	2	barro
+336	3	barro
+336	0	zep_preto
+336	1	zep_preto
+336	2	zep_preto
+336	3	zep_preto
+337	0	barro
+337	1	barro
+337	2	barro
+337	3	barro
+337	4	barro
+337	0	zep_preto
+337	1	zep_preto
+337	2	zep_preto
+337	3	zep_preto
+337	4	zep_preto
+338	0	zep_preto
+338	1	zep_preto
+338	2	zep_preto
+338	3	zep_preto
+338	4	zep_preto
+339	0	zep_metal
+339	1	zep_metal
+339	2	zep_metal
+339	3	zep_metal
+340	0	zep_metal
+340	1	zep_metal
+340	2	zep_metal
+340	3	zep_metal
+341	0	zep_metal
+341	1	zep_metal
+341	2	zep_metal
+341	3	zep_metal
+342	0	zep_metal
+342	1	zep_metal
+342	2	zep_metal
+342	3	zep_metal
+342	4	zep_metal
+343	0	zep_metal
+343	1	zep_metal
+343	2	zep_metal
+343	3	zep_metal
+344	0	zep_metal
+344	1	zep_metal
+344	2	zep_metal
+344	3	zep_metal
+345	0	zep_metal
+345	1	zep_metal
+345	2	zep_metal
+345	3	zep_metal
+346	0	zep_metal
+346	1	zep_metal
+346	2	zep_metal
+346	3	zep_metal
+346	4	zep_metal
+350	0	amarelo
+350	1	amarelo
+350	2	amarelo
+350	3	amarelo
+350	4	amarelo
+351	0	amarelo
+351	1	amarelo
+351	2	amarelo
+351	3	amarelo
+351	4	amarelo
+352	0	amarelo
+352	1	amarelo
+352	2	amarelo
+352	3	amarelo
+352	4	amarelo
+353	0	amarelo
+353	1	amarelo
+353	2	amarelo
+353	3	amarelo
+353	4	amarelo
+353	1	verde
+353	0	verde
+353	2	verde
+353	4	verde
+354	0	amarelo
+354	1	amarelo
+354	2	amarelo
+354	3	amarelo
+354	4	amarelo
+354	2	verde
+354	1	verde
+354	0	verde
+354	3	verde
+355	0	amarelo
+355	1	amarelo
+355	2	amarelo
+355	3	amarelo
+355	4	amarelo
+355	3	verde
+355	4	verde
+355	1	verde
+356	0	amarelo
+356	1	amarelo
+356	2	amarelo
+356	3	amarelo
+356	4	amarelo
+357	0	amarelo
+357	1	amarelo
+357	2	amarelo
+357	3	amarelo
+357	4	amarelo
+358	0	amarelo
+358	1	amarelo
+358	2	amarelo
+358	3	amarelo
+358	4	amarelo
+359	0	amarelo
+359	1	amarelo
+359	2	amarelo
+359	3	amarelo
+359	4	amarelo
+360	0	amarelo
+360	1	amarelo
+360	2	amarelo
+360	3	amarelo
+360	4	amarelo
+361	0	amarelo
+361	1	amarelo
+361	2	amarelo
+361	3	amarelo
+361	4	amarelo
+362	0	amarelo
+362	1	amarelo
+362	2	amarelo
+362	3	amarelo
+362	4	amarelo
+363	0	amarelo
+363	1	amarelo
+363	2	amarelo
+363	3	amarelo
+363	4	amarelo
+363	2	verde
+363	3	verde
+363	0	verde
+363	4	verde
+363	1	verde
+364	0	amarelo
+364	1	amarelo
+364	2	amarelo
+364	3	amarelo
+364	4	amarelo
+364	4	verde
+364	3	verde
+364	2	verde
+365	0	amarelo
+365	1	amarelo
+365	2	amarelo
+365	3	amarelo
+365	4	amarelo
+365	1	verde
+365	0	verde
+366	0	amarelo
+366	1	amarelo
+366	2	amarelo
+366	3	amarelo
+366	4	amarelo
+367	0	amarelo
+367	1	amarelo
+367	2	amarelo
+367	3	amarelo
+367	4	amarelo
+369	0	azul
+369	1	azul
+369	2	azul
+369	3	azul
+369	4	azul
+370	0	azul
+370	1	azul
+370	2	azul
+370	3	azul
+370	4	azul
+371	0	azul
+371	1	azul
+371	2	azul
+371	3	azul
+371	4	azul
+372	0	azul
+372	1	azul
+372	2	azul
+372	3	azul
+372	4	azul
+373	0	azul
+373	1	azul
+373	2	azul
+373	3	azul
+373	4	azul
+374	0	azul
+374	1	azul
+374	2	azul
+374	3	azul
+374	4	azul
+375	0	azul
+375	1	azul
+375	2	azul
+375	3	azul
+375	4	azul
+376	0	azul
+376	1	azul
+376	2	azul
+376	3	azul
+376	4	azul
+377	0	azul
+377	1	azul
+377	2	azul
+377	3	azul
+377	4	azul
+378	0	azul
+378	1	azul
+378	2	azul
+378	3	azul
+378	4	azul
+379	0	azul
+379	1	azul
+379	2	azul
+379	3	azul
+379	4	azul
+380	0	azul
+380	1	azul
+380	2	azul
+380	3	azul
+380	4	azul
+381	0	azul
+381	1	azul
+381	2	azul
+381	3	azul
+381	4	azul
+382	0	azul
+382	1	azul
+382	2	azul
+382	3	azul
+382	4	azul
+383	0	azul
+383	1	azul
+383	2	azul
+383	3	azul
+383	4	azul
+384	0	azul
+384	1	azul
+384	2	azul
+384	3	azul
+384	4	azul
+385	0	azul
+385	1	azul
+385	2	azul
+385	3	azul
+385	4	azul
+386	0	azul
+386	1	azul
+386	2	azul
+386	3	azul
+386	4	azul
+387	0	azul
+387	1	azul
+387	2	azul
+387	3	azul
+387	4	azul
+388	0	azul
+388	1	azul
+388	2	azul
+388	3	azul
+388	4	azul
+389	0	azul
+389	1	azul
+389	2	azul
+389	3	azul
+389	4	azul
+390	0	azul
+390	1	azul
+390	2	azul
+390	3	azul
+390	4	azul
+391	0	azul
+391	1	azul
+391	2	azul
+391	3	azul
+391	4	azul
+</bloons>

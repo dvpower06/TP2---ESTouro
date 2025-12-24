@@ -1,0 +1,85 @@
+400
+pista2.jpg
+3
+2
+<caminho>
+74	-1
+29	54
+22	107
+28	158
+53	174
+86	155
+125	95
+153	76
+200	86
+256	133
+276	173
+289	420
+295	436
+320	426
+382	385
+407	382
+421	405
+421	479
+</caminho>
+<caminho>
+-3	225
+40	252
+128	208
+165	192
+204	199
+228	232
+213	270
+166	326
+165	351
+188	357
+275	343
+297	411
+307	421
+385	377
+409	380
+415	404
+414	479
+</caminho>
+<caminho>
+298	-1
+277	66
+303	109
+331	125
+374	112
+402	113
+416	134
+418	195
+394	241
+353	289
+289	333
+290	412
+309	431
+397	386
+422	393
+424	478
+</caminho>
+<bloons>
+10	0	vermelho
+30	0	vermelho
+50	0	vermelho
+80	0	vermelho
+180	2	vermelho
+200	2	vermelho
+220	2	vermelho
+240	1	vermelho
+260	1	vermelho
+280	1	vermelho
+400	0	vermelho
+400	1	vermelho
+400	2	vermelho
+520	0	vermelho
+525	1	vermelho
+530	2	vermelho
+550	0	vermelho
+575	1	vermelho
+580	2	vermelho
+600	0	vermelho
+625	1	vermelho
+650	2	vermelho
+</bloons>

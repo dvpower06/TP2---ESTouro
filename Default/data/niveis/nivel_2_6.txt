@@ -1,0 +1,143 @@
+1000
+pista2.jpg
+3
+80
+<caminho>
+74	-1
+29	54
+22	107
+28	158
+53	174
+86	155
+125	95
+153	76
+200	86
+256	133
+276	173
+289	420
+295	436
+320	426
+382	385
+407	382
+421	405
+421	479
+</caminho>
+<caminho>
+-3	225
+40	252
+128	208
+165	192
+204	199
+228	232
+213	270
+166	326
+165	351
+188	357
+275	343
+297	411
+307	421
+385	377
+409	380
+415	404
+414	479
+</caminho>
+<caminho>
+298	-1
+277	66
+303	109
+331	125
+374	112
+402	113
+416	134
+418	195
+394	241
+353	289
+289	333
+290	412
+309	431
+397	386
+422	393
+424	478
+</caminho>
+<bloons>
+5	1	zep_verde
+6	0	zep_verde
+6	2	zep_verde
+12	0	vermelho
+13	0	vermelho
+14	0	vermelho
+15	0	vermelho
+15	1	vermelho
+16	0	vermelho
+16	1	vermelho
+17	0	vermelho
+17	1	vermelho
+18	1	vermelho
+18	2	vermelho
+19	1	vermelho
+19	2	vermelho
+20	2	vermelho
+21	2	vermelho
+22	2	vermelho
+23	2	vermelho
+24	2	vermelho
+28	0	zep_verde
+34	0	azul
+35	0	azul
+36	0	azul
+37	0	azul
+37	0	verde
+38	0	azul
+38	0	verde
+39	0	azul
+40	0	azul
+41	0	azul
+42	0	azul
+43	1	zep_verde
+46	2	azul
+47	1	azul
+49	0	azul
+50	2	azul
+51	1	azul
+53	2	azul
+53	0	azul
+54	0	azul
+56	1	azul
+59	2	zep_verde
+59	0	zep_verde
+65	0	azul
+65	2	azul
+74	2	azul
+76	1	zep_verde
+80	0	azul
+82	2	azul
+90	1	azul
+97	2	zep_verde
+98	0	zep_verde
+106	1	azul
+109	0	azul
+112	2	azul
+120	0	azul
+122	2	azul
+132	0	zep_amarelo
+132	1	zep_amarelo
+132	2	zep_amarelo
+162	0	verde
+162	2	verde
+162	1	verde
+164	0	verde
+164	1	verde
+164	2	verde
+167	0	verde
+167	1	verde
+167	2	verde
+171	0	verde
+171	1	verde
+171	2	verde
+175	0	verde
+175	1	verde
+175	2	verde
+204	0	zep_amarelo
+204	1	zep_amarelo
+204	2	zep_amarelo
+</bloons>

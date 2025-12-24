@@ -1,0 +1,12 @@
+1
+2
+670
+60
+7
+229	168	canhao
+258	265	ninja
+305	159	ninja
+98	183	canhao
+179	240	canhao
+243	72	canhao
+327	355	octo	0.0

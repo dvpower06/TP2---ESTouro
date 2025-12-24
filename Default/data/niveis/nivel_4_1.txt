@@ -1,0 +1,104 @@
+0
+pista4.jpg
+4
+46
+<caminho>
+0	52
+175	53
+187	65
+187	214
+201	231
+267	230
+274	248
+274	388
+292	410
+409	411
+430	392
+427	0
+</caminho>
+<caminho>
+0	185
+113	185
+129	200
+130	288
+149	307
+256	305
+275	323
+274	400
+299	416
+409	412
+433	392
+431	0
+</caminho>
+<caminho>
+0	327
+74	328
+73	395
+91	411
+410	412
+424	389
+421	0
+</caminho>
+<caminho>
+271	-3
+271	104
+283	120
+337	119
+350	143
+350	287
+333	308
+275	305
+273	375
+281	419
+432	404
+439	378
+435	2
+</caminho>
+<bloons>
+0	0	vermelho
+0	1	vermelho
+0	2	vermelho
+0	3	vermelho
+20	0	azul
+20	1	azul
+20	2	azul
+20	3	azul
+40	0	verde
+40	1	verde
+40	2	verde
+40	3	verde
+48	0	vermelho
+51	0	vermelho
+52	1	vermelho
+54	0	vermelho
+55	1	vermelho
+56	2	vermelho
+58	0	vermelho
+58	1	vermelho
+59	2	vermelho
+60	3	vermelho
+62	0	vermelho
+63	3	vermelho
+63	2	vermelho
+63	1	vermelho
+67	3	vermelho
+67	2	vermelho
+67	1	vermelho
+67	0	vermelho
+71	3	vermelho
+71	2	vermelho
+71	1	vermelho
+71	0	vermelho
+76	3	vermelho
+76	2	vermelho
+76	1	vermelho
+76	0	vermelho
+87	0	azul
+87	1	azul
+87	2	azul
+87	3	azul
+157	0	amarelo
+157	1	amarelo
+157	2	amarelo
+157	3	amarelo
+</bloons>

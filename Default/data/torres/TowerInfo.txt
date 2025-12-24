@@ -1,0 +1,41 @@
+6
+<torre>
+macaco
+Macaco Lançador
+200
+Atira um dardo simples
+</torre>
+<torre>
+octo
+Lançador Octogonal
+300
+Atira 8 dardos.
+Um em cada direção dos seus lançadores
+</torre>
+<torre>
+canhao
+Canhão
+500
+Atira 1 bomba.
+A bomba afeta todos os bloons numa área.
+</torre>
+<torre>
+morteiro
+Morteiro
+600
+Atira 1 bomba, continuamente, sempre para o mesmo sitio.
+A bomba afeta todos os bloons numa área.
+</torre>
+<torre>
+balista
+Balista
+550
+Atira uma flecha muito potente na direção em que está virada.
+Não roda automaticamente.
+</torre>
+<torre>
+ninja
+Ninja
+500
+Alterna entre atirar 3 shurikans ou 1 granada.
+</torre>

@@ -1,0 +1,348 @@
+900
+pista3.jpg
+1
+287
+<caminho>
+43	-1
+56	11
+106	40
+139	80
+159	133
+149	180
+116	212
+80	244
+67	257
+67	271
+72	284
+88	288
+129	291
+152	287
+174	271
+199	229
+284	67
+303	57
+319	67
+327	83
+348	171
+358	188
+372	199
+390	201
+436	176
+452	174
+460	186
+446	229
+404	301
+379	318
+356	315
+294	227
+278	224
+266	231
+263	248
+260	326
+262	335
+275	341
+356	389
+370	408
+373	427
+360	437
+323	437
+280	434
+246	405
+211	368
+169	353
+139	365
+118	386
+104	412
+102	442
+106	463
+128	496
+</caminho>
+<bloons>
+0	0	vermelho
+1	0	vermelho
+2	0	vermelho
+3	0	vermelho
+4	0	vermelho
+5	0	vermelho
+6	0	vermelho
+7	0	vermelho
+8	0	vermelho
+9	0	vermelho
+10	0	vermelho
+11	0	vermelho
+12	0	vermelho
+13	0	vermelho
+14	0	vermelho
+15	0	vermelho
+16	0	vermelho
+17	0	vermelho
+18	0	vermelho
+19	0	vermelho
+20	0	vermelho
+21	0	vermelho
+22	0	vermelho
+23	0	vermelho
+24	0	vermelho
+25	0	vermelho
+26	0	vermelho
+27	0	vermelho
+28	0	vermelho
+29	0	vermelho
+30	0	vermelho
+30	0	azul
+31	0	vermelho
+31	0	azul
+32	0	vermelho
+32	0	azul
+33	0	vermelho
+33	0	azul
+33	0	vermelho
+34	0	vermelho
+34	0	azul
+35	0	vermelho
+35	0	azul
+36	0	vermelho
+36	0	azul
+37	0	vermelho
+37	0	azul
+37	0	vermelho
+38	0	vermelho
+38	0	azul
+39	0	vermelho
+39	0	azul
+40	0	vermelho
+40	0	azul
+41	0	vermelho
+41	0	azul
+41	0	vermelho
+42	0	vermelho
+42	0	azul
+43	0	vermelho
+43	0	azul
+44	0	vermelho
+44	0	azul
+45	0	vermelho
+45	0	azul
+46	0	vermelho
+46	0	azul
+46	0	vermelho
+47	0	vermelho
+47	0	azul
+48	0	vermelho
+48	0	azul
+49	0	vermelho
+49	0	azul
+50	0	vermelho
+50	0	azul
+51	0	vermelho
+51	0	azul
+51	0	vermelho
+52	0	vermelho
+52	0	azul
+53	0	vermelho
+53	0	azul
+54	0	vermelho
+54	0	azul
+55	0	vermelho
+55	0	azul
+56	0	vermelho
+56	0	azul
+56	0	vermelho
+57	0	vermelho
+57	0	azul
+58	0	vermelho
+58	0	azul
+59	0	vermelho
+59	0	azul
+60	0	vermelho
+60	0	azul
+61	0	vermelho
+61	0	verde
+62	0	vermelho
+62	0	verde
+63	0	vermelho
+63	0	verde
+64	0	vermelho
+64	0	verde
+64	0	vermelho
+65	0	vermelho
+65	0	verde
+66	0	vermelho
+66	0	verde
+67	0	vermelho
+67	0	verde
+68	0	vermelho
+68	0	verde
+68	0	vermelho
+69	0	vermelho
+69	0	verde
+69	0	vermelho
+70	0	vermelho
+70	0	verde
+71	0	vermelho
+71	0	verde
+72	0	vermelho
+72	0	verde
+73	0	vermelho
+73	0	verde
+73	0	azul
+74	0	vermelho
+74	0	verde
+74	0	azul
+75	0	vermelho
+75	0	verde
+76	0	vermelho
+76	0	verde
+76	0	azul
+77	0	vermelho
+77	0	verde
+77	0	azul
+78	0	vermelho
+78	0	verde
+78	0	vermelho
+79	0	vermelho
+79	0	verde
+80	0	vermelho
+80	0	verde
+81	0	vermelho
+81	0	verde
+82	0	vermelho
+82	0	verde
+83	0	vermelho
+83	0	verde
+83	0	vermelho
+84	0	vermelho
+84	0	verde
+85	0	vermelho
+85	0	verde
+86	0	vermelho
+86	0	verde
+87	0	vermelho
+87	0	verde
+87	0	vermelho
+88	0	vermelho
+88	0	verde
+89	0	vermelho
+89	0	verde
+90	0	vermelho
+90	0	verde
+90	0	vermelho
+91	0	vermelho
+91	0	verde
+92	0	vermelho
+92	0	verde
+93	0	vermelho
+93	0	verde
+94	0	vermelho
+94	0	verde
+95	0	vermelho
+95	0	verde
+96	0	vermelho
+96	0	verde
+97	0	vermelho
+97	0	amarelo
+98	0	amarelo
+99	0	amarelo
+100	0	amarelo
+101	0	amarelo
+102	0	amarelo
+102	0	vermelho
+103	0	amarelo
+104	0	amarelo
+105	0	amarelo
+105	0	azul
+106	0	amarelo
+107	0	amarelo
+108	0	amarelo
+109	0	amarelo
+109	0	vermelho
+110	0	amarelo
+111	0	amarelo
+111	0	azul
+112	0	amarelo
+112	0	azul
+113	0	amarelo
+114	0	amarelo
+114	0	vermelho
+115	0	amarelo
+116	0	amarelo
+117	0	amarelo
+118	0	amarelo
+118	0	azul
+119	0	amarelo
+120	0	amarelo
+120	0	vermelho
+121	0	amarelo
+122	0	amarelo
+123	0	amarelo
+124	0	amarelo
+125	0	amarelo
+126	0	amarelo
+127	0	amarelo
+127	0	vermelho
+128	0	amarelo
+129	0	amarelo
+130	0	amarelo
+131	0	amarelo
+132	0	amarelo
+132	0	vermelho
+133	0	amarelo
+134	0	rosa
+135	0	rosa
+136	0	rosa
+137	0	rosa
+137	0	vermelho
+138	0	rosa
+139	0	rosa
+139	0	azul
+140	0	rosa
+140	0	vermelho
+141	0	rosa
+141	0	vermelho
+142	0	rosa
+143	0	rosa
+144	0	rosa
+145	0	rosa
+145	0	vermelho
+146	0	rosa
+146	0	azul
+147	0	rosa
+147	0	azul
+148	0	rosa
+148	0	vermelho
+149	0	rosa
+149	0	vermelho
+150	0	rosa
+150	0	vermelho
+151	0	rosa
+151	0	vermelho
+152	0	rosa
+153	0	rosa
+153	0	vermelho
+154	0	rosa
+155	0	rosa
+155	0	azul
+156	0	rosa
+156	0	azul
+157	0	rosa
+157	0	azul
+158	0	rosa
+159	0	rosa
+160	0	rosa
+160	0	vermelho
+161	0	rosa
+162	0	rosa
+162	0	vermelho
+163	0	rosa
+164	0	rosa
+165	0	rosa
+166	0	rosa
+167	0	rosa
+167	0	vermelho
+168	0	rosa
+168	0	vermelho
+169	0	rosa
+170	0	rosa
+171	0	rosa
+172	0	rosa
+</bloons>
