@@ -6,12 +6,18 @@ import java.awt.Composite;
 import java.awt.Graphics2D;
 import java.awt.Point;
 import java.util.List;
+import java.util.Map;
 import java.util.Objects;
 
 import bloon.Bloon;
 import mundo.Mundo;
 import prof.jogos2D.image.ComponenteMultiAnimado;
 import prof.jogos2D.util.DetectorColisoes;
+import torre.ataques.AtacaJuntos;
+import torre.ataques.AtacaPerto;
+import torre.ataques.AtacaPrimeiro;
+import torre.ataques.AtacaUltimo;
+import torre.ataques.ModoAtaque;
 
 
 
@@ -35,6 +41,13 @@ public abstract class TorreDefault implements Torre {
 	private int frameDisparoDelay; // delay desde que a animação de disparo começa até que "realmente" dispara
 
 	private ModoAtaque ataque;
+
+	private static final Map<Integer, ModoAtaque> ESTRATEGIAS = Map.of(
+    Torre.ATACA_PRIMEIRO, new AtacaPrimeiro(),
+    Torre.ATACA_ULTIMO,   new AtacaUltimo(),
+    Torre.ATACA_PERTO,    new AtacaPerto(),
+    Torre.ATACA_JUNTOS,   new AtacaJuntos()
+);
 
 	/**
 	 * Construtor da torre. Cria uma torre dando-lhe uma imagem, um ponto de disparo
@@ -138,22 +151,8 @@ public abstract class TorreDefault implements Torre {
 
 	@Override
 	public void setModoAtaque(int modo) {
-		modoAtaque = modo;
-		switch (modo) {
-			case Torre.ATACA_PRIMEIRO:
-				this.ataque = new AtacaPrimeiro();
-				break;
-			case Torre.ATACA_ULTIMO:
-				this.ataque = new AtacaUltimo();
-				break;
-			case Torre.ATACA_PERTO:
-				this.ataque = new AtacaPerto();
-				break;
-			case Torre.ATACA_JUNTOS:
-				this.ataque = new AtacaJuntos();
-			default:
-				break;
-		}
+		this.modoAtaque = modo;
+		this.ataque = ESTRATEGIAS.getOrDefault(modo, ESTRATEGIAS.get(Torre.ATACA_PRIMEIRO));
 	}
 
 	@Override

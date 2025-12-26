@@ -1,4 +1,4 @@
-package torre;
+package torre.ataques;
 
 import java.awt.Point;
 import java.util.Collections;
@@ -8,10 +8,15 @@ import java.util.stream.Collectors;
 
 import bloon.Bloon;
 
+
 public class AtacaJuntos implements ModoAtaque {
 
     @Override
     public Point escolherPosicao(List<Bloon> bloons, Point centro) {
+
+        if(bloons == null || bloons.isEmpty())
+            return null;
+
         Map<Integer, List<Bloon>> posicoes = bloons.stream()
                 .collect(Collectors.groupingBy(b -> b.getPosicaoNoCaminho() / 20));
         int posicaoComMais = Collections.max(posicoes.keySet(),

@@ -48,7 +48,7 @@ public class TorreMacaco extends TorreDefault {
 		Point centro = getComponente().getPosicaoCentro();
 		
 		// determinar a posição do bloon alvo, consoante o método de ataque
-		Point posAlvo = getAtaque().escolherPosicao(bloons, centro);
+		Point posAlvo = getAtaque().escolherPosicao(alvosPossiveis, centro);
 
 
 		if (posAlvo == null)

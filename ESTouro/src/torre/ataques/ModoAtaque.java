@@ -1,4 +1,4 @@
-package torre;
+package torre.ataques;
 
 import java.awt.Point;
 import java.util.List;
