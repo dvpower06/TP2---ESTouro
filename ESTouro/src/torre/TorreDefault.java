@@ -13,6 +13,8 @@ import mundo.Mundo;
 import prof.jogos2D.image.ComponenteMultiAnimado;
 import prof.jogos2D.util.DetectorColisoes;
 
+
+
 /**
  * Classe que implementa os comportamentos e variáveis comuns a todos as torres.
  * Tambám possui alguns métodos auxiliares para as várias torres
@@ -31,6 +33,8 @@ public abstract class TorreDefault implements Torre {
 	private int ritmoDisparo; // velocidade de disparo
 	private int proxDisparo; // quando volta a disparar
 	private int frameDisparoDelay; // delay desde que a animação de disparo começa até que "realmente" dispara
+
+	private ModoAtaque ataque;
 
 	/**
 	 * Construtor da torre. Cria uma torre dando-lhe uma imagem, um ponto de disparo
@@ -135,11 +139,30 @@ public abstract class TorreDefault implements Torre {
 	@Override
 	public void setModoAtaque(int modo) {
 		modoAtaque = modo;
+		switch (modo) {
+			case Torre.ATACA_PRIMEIRO:
+				this.ataque = new AtacaPrimeiro();
+				break;
+			case Torre.ATACA_ULTIMO:
+				this.ataque = new AtacaUltimo();
+				break;
+			case Torre.ATACA_PERTO:
+				this.ataque = new AtacaPerto();
+				break;
+			case Torre.ATACA_JUNTOS:
+				this.ataque = new AtacaJuntos();
+			default:
+				break;
+		}
 	}
 
 	@Override
 	public int getModoAtaque() {
 		return modoAtaque;
+	}
+
+	public ModoAtaque getAtaque() {
+		return ataque;
 	}
 
 	/**
@@ -179,4 +202,9 @@ public abstract class TorreDefault implements Torre {
 			return null;
 		}
 	}
+
+	
+
 }
+
+
