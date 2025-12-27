@@ -159,7 +159,7 @@ public abstract class TorreDefault implements Torre {
 	public int getModoAtaque() {
 		return modoAtaque;
 	}
-
+	//Estrategia do ataque
 	public ModoAtaque getAtaque() {
 		return ataque;
 	}

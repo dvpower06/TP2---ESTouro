@@ -1,0 +1,16 @@
+package torre;
+
+import java.awt.Image;
+import java.awt.image.BufferedImage;
+
+import prof.jogos2D.util.ImageLoader;
+
+public class FactoryCanhao implements FabricaTorre {
+
+    @Override
+    public Torre criaTorre(ImageLoader loader) {
+        Image img = loader.getImage("data/torres/canhao/imagem.gif");
+        return new TorreCanhao((BufferedImage) img);
+    }
+    
+}

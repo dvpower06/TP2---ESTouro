@@ -1,7 +1,7 @@
 package torre;
 
-import java.awt.Image;
-import java.awt.image.BufferedImage;
+import java.util.HashMap;
+import java.util.Map;
 
 import prof.jogos2D.util.ImageLoader;
 
@@ -13,65 +13,19 @@ import prof.jogos2D.util.ImageLoader;
 public class TorreCreator {
 	private ImageLoader loader = ImageLoader.getLoader();
 
-	/**
-	 * cria a torre com um dado nome
-	 * 
-	 * @param nome nome da torre a criar
-	 * @return a torre criada, ou null se não existir torre com o nome dado
-	 */
-	public Torre criarTorrePorNome(String nome) {
-		// TODO suportar também a Sniper
-		switch (nome) {
-			case "octo":
-				return criarOctogonal();
-			case "macaco":
-				return criarMacaco();
-			case "canhao":
-				return criarCanhao();
-			case "morteiro":
-				return criarMorteiro();
-			case "balista":
-				return criarBalista();
-			case "ninja":
-				return criarNinja();
-		}
-		return null;
-	}
+	//TODO FEITO suportar também a sniper
 
-	/** Cria uma torre octogonal */
-	public Torre criarOctogonal() {
-		Image img = loader.getImage("data/torres/octo/imagem.gif");
-		return new TorreOctogonal((BufferedImage) img);
-	}
+    private final Map<String, FabricaTorre> catalogo = new HashMap<>();
 
-	/** Cria uma torre macaco */
-	public Torre criarMacaco() {
-		Image img = loader.getImage("data/torres/macaco/imagem.gif");
-		return new TorreMacaco((BufferedImage) img);
-	}
 
-	/** Cria uma torre canhão */
-	public Torre criarCanhao() {
-		Image img = loader.getImage("data/torres/canhao/imagem.gif");
-		return new TorreCanhao((BufferedImage) img);
-	}
+    public void registarTorre(String nome, FabricaTorre fabrica) {
+        catalogo.put(nome, fabrica);
+    }
 
-	/** Cria uma torre morteiro */
-	public Torre criarMorteiro() {
-		Image img = loader.getImage("data/torres/morteiro/imagem.gif");
-		return new TorreMorteiro((BufferedImage) img);
-	}
+    public Torre criarTorrePorNome(String nome) {
+        FabricaTorre f = catalogo.get(nome);
+        return (f != null) ? f.criaTorre(loader) : null;
+    }
 
-	/** Cria uma torre balista */
-	public Torre criarBalista() {
-		Image img = loader.getImage("data/torres/balista/imagem.gif");
-		return new TorreBalista((BufferedImage) img);
-	}
-
-	/** Cria uma torre ninja */
-	public Torre criarNinja() {
-		Image img = loader.getImage("data/torres/ninja/imagem.gif");
-		return new TorreNinja((BufferedImage) img);
-	}
 
 }
